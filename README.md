@@ -9,9 +9,3 @@ This repository provides a framework for creating a conversational interface usi
 - Conversational AI for code generation.
 - Uses the power of OpenAI's API to generate specific code tasks.
 - Built-in functionalities like initiating chat for user-assistant interaction.
-
-## Installation
-
-1. Clone this repository:
-```bash
-git clone <YOUR REPOSITORY URL>
